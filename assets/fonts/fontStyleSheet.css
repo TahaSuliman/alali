@@ -1,0 +1,46 @@
+﻿@font-face {
+    font-family: 'DINArabic-CondBold';
+    src: url('DINArabic-CondBold.ttf') format('truetype');
+}
+.heahLine-1 {
+    font-family: 'DINArabic-CondBold';
+}
+@font-face {
+    font-family: 'Jazeel-Bold-1';
+    src: url('Jazeel-Bold-1.otf') format('opentype');
+}
+.heahLine-2 {
+    font-family: 'Jazeel-Bold-1';
+}
+@font-face {
+    font-family: 'Cairo-Bold';
+    src: url('Cairo-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cairo-Regular';
+    src: url('Cairo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Cairo-Light';
+    src: url('Cairo-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Ubuntu-Arabic_B';
+    src: url('Ubuntu-Arabic_R.ttf') format('truetype');
+}
+.our-serv {
+    font-family: 'Cairo-Bold';
+    margin-right: -40px !important;
+}
+.bold-cairo {
+    /*font-family: 'Cairo-Bold' !important;*/
+    font-family: 'DINArabic-CondBold' !important;
+}
+h1, h2, h3, h4 {
+    font-family: 'Ubuntu-Arabic_B' !important;
+}
+.title-c {
+    margin-right: -40px !important;
+}
